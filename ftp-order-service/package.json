@@ -1,0 +1,18 @@
+{
+  "name": "order-management",
+  "version": "1.0.0",
+  "description": "##install dependencies in root folder sudo npm run install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^2.3.0",
+    "firebase": "^5.5.8",
+    "ftp": "^0.3.10",
+    "ftp-srv": "^3.0.2",
+    "ftp-watcher": "0.0.6"
+  }
+}
